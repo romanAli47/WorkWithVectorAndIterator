@@ -1,0 +1,24 @@
+﻿  TennisPlayer.cpp
+  Person.cpp
+  MyExceptions.cpp
+  Menu.cpp
+  main.cpp
+d:\бгуир\4 сем\ооп\lab1\lab1\list\binaryfile.h(144): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  d:\бгуир\4 сем\ооп\lab1\lab1\list\binaryfile.h(139): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  d:\бгуир\4 сем\ооп\lab1\lab1\list\interface.h(334): note: см. ссылку на создание экземпляров функции шаблон при компиляции "bool BinaryFile<T>::swapTwoEntry(int,int)"
+          with
+          [
+              T=Footballer
+          ]
+  d:\бгуир\4 сем\ооп\lab1\lab1\list\interface.h(59): note: см. ссылку на создание экземпляров класса шаблон при компиляции "BinaryFile<T>"
+          with
+          [
+              T=Footballer
+          ]
+  d:\бгуир\4 сем\ооп\lab1\lab1\list\interface.h(33): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  d:\бгуир\4 сем\ооп\lab1\lab1\list\main.cpp(127): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void Interface<Footballer>::menu(void)"
+  d:\бгуир\4 сем\ооп\lab1\lab1\list\main.cpp(126): note: см. ссылку на создание экземпляров класса шаблон при компиляции "Interface<Footballer>"
+  Footballer.cpp
+  Создание кода...
+  List.vcxproj -> D:\БГУИР\4 сем\ООП\Lab1\Lab1\Debug\Lab1.exe
+  List.vcxproj -> D:\БГУИР\4 сем\ООП\Lab1\Lab1\Debug\Lab1.pdb (Full PDB)
